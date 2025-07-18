@@ -1,8 +1,8 @@
 
 
-![image](https://github.com/shanleiguang/vBooks/blob/main/001.jpg)
+![image](https://github.com/shanleiguang/vBooks/blob/main/001.png)
 
-![image](https://github.com/shanleiguang/vBooks/blob/main/002.jpg)
+![image](https://github.com/shanleiguang/vBooks/blob/main/002.png)
 
 # 願景
 
