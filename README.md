@@ -4,7 +4,7 @@
 
 ![image](https://github.com/shanleiguang/vBooks/blob/main/002.png)
 
-# 願景 Vison
+## 願景 Vison
 
 - 古籍刻本掃描影像通常存在掃描變形、頁面瑕疵、文件巨大等問題，且圖像無法選中其文字從而不能查詢生字生詞，因而不便閱讀。該計劃目的是參照古籍刻本之原貌，復刻出文字版的電子書，支持圈註、查閱，方便存入電子閱讀器隨時閱讀。通過古籍刻本古樸形式所帶來的沉浸優雅之閱讀體驗，也許將吸引更多讀者愛上古籍閱讀。
 - 本項目由[vRain兀雨古籍刻本電子書製作工具](https://github.com/shanleiguang/vRain)、[vYinn殷人古籍印章設計製作工具](https://github.com/shanleiguang/vYinn)、[vQi中國古棋譜製作工具](https://github.com/shanleiguang/vQi)、vModou墨斗古籍掃描圖變形糾正工具(Private)、vLunnar農曆日曆製作工具等相關工具組成。
@@ -21,6 +21,6 @@ Scanned images of ancient books often suffer from issues such as scanning distor
 >>更多古籍排版實用標籤，如正文字體二次縮放、文字添加底框（圓角方框/圓形框）、文本預處理工具等；  
 >>更多模擬背景圖，如甲骨、碑拓、竹簡、做舊、手機壁紙等；  
 >>更多高質量樣例，如何vRain+vYinn結合應用案例；  
->>**訂購作者自製高質量古籍數字的全套成書**；  
+>>**訂購作者自製高質量古籍數字復刻全套成書**；  
 >>更多實用工具或相關開發樣例，如vModou兀雨墨斗（古籍掃描圖變形糾正工具）、vLunnar農曆日曆製作工具、vDaiary日記本製作案例等。  
 ![image](https://github.com/shanleiguang/vRain/blob/main/images/011.png)
