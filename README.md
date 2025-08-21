@@ -7,18 +7,42 @@
 ## 願景 Vison
 
 - 古籍刻本掃描影像通常存在掃描變形、頁面瑕疵、文件巨大等問題，且圖像無法選中其文字從而不能查詢生字生詞，因而不便閱讀。該計劃目的是參照古籍刻本之原貌，復刻出文字版的電子書，支持圈註、查閱，方便存入電子閱讀器隨時閱讀。通過古籍刻本古樸形式所帶來的沉浸優雅之閱讀體驗，也許將吸引更多讀者愛上古籍閱讀。
-- 本項目由[vRain兀雨古籍刻本電子書製作工具](https://github.com/shanleiguang/vRain)、[vYinn殷人古籍印章設計製作工具](https://github.com/shanleiguang/vYinn)、[vQi中國古棋譜製作工具](https://github.com/shanleiguang/vQi)、[vModou墨斗]((https://github.com/shanleiguang/vModouPreview)古籍掃描圖變形糾正工具、vLunnar農曆日曆製作工具、古籍風格日記本製作工具等組成。
+- 本項目由[vRain兀雨古籍刻本電子書製作工具](https://github.com/shanleiguang/vRain)、[vYinn殷人古籍印章設計製作工具](https://github.com/shanleiguang/vYinn)、[vQi中國古棋譜製作工具](https://github.com/shanleiguang/vQi)、[vModou墨斗](https://github.com/shanleiguang/vModou)古籍掃描圖變形糾正工具、[v3Cai天地人三才傳統曆法筆記本](https://github.com/shanleiguang/v3CaiPreview)等組成。
 
 Scanned images of ancient books often suffer from issues such as scanning distortion, page defects, and large file sizes, making it difficult to read since the text cannot be selected for searching dictionary.The goal of this project is to create ebook in text format that replicates the original appearance of the ancient books, supporting annotations and queries, making it convenient to store in ebook-readers for reading anytime. The elegant and immersive reading experience brought by the primitive form of ancient books may attract more readers to enjoy reading ancient literature.
 
-## 赞助支持 Sponsorship
+## 贊助支持 Sponsorship
 
 ![image](https://github.com/shanleiguang/vRain/blob/main/sponsor_new.png)  
 如果您覺得本項目對您的工作或生活有些微幫助，請給予必要的支持，我也有動力繼續完善更新，謝謝！   
-贊助後我將邀請您訪問vRainPro私有庫項目，一個月後續訂可通過Sponsor按鈕或該私有項目頁面提示。較Pbulic項目Private項目有以下不同：
->>微信或郵件諮詢答疑，包括運行環境調試、使用協助、代碼解讀、二次開發合作等相關問題；  
->>代碼持續更新，註釋更詳細；  
->>更多古籍排版實用標籤，如正文字體二次縮放、文字添加底框（圓角方框/圓形框）、文本預處理工具等；  
->>更多模擬背景圖，如甲骨、碑拓、竹簡、做舊、手機壁紙等；  
->>更多高質量樣例，如何vRain+vYinn結合應用案例；  
->>**訂購作者自製高質量古籍數字復刻全套成書**；  
+
+## 訂購作者自製高質量古籍數字復刻全書，微信聯繫方式見上
+
+>>《說文解字》
+>>《康熙字典》半部
+>>
+>>《史記》百三十卷不含表
+>>《資治通鑑》周、秦、漢紀
+>>《戰國策校注》
+>>
+>>《詩經集傳》
+>>《楚辭集注》屈原部分
+>>《四書章句》
+>>《陶淵明集》
+>>《晏子春秋》
+>>《世說新語箋疏》
+>>《文心雕龍義證》
+>>
+>>《脂硯齋重評石頭記》全八卷
+>>《毛宗崗評三國演義》
+>>《西遊記》
+>>《東周列國志》
+>>《封神演義》
+>>《聊齋誌異》
+>>《閱微草堂筆記》
+>>《容齋隨筆》
+>>《夢溪筆談》
+>>《虞初新誌》
+>>《徐霞客遊記》
+>>《子不語》
+>>《蜀山劍俠傳》
