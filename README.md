@@ -14,7 +14,7 @@ Scanned images of ancient books often suffer from issues such as scanning distor
 ### 贊助支持 Sponsorship
 
 ![image](https://github.com/shanleiguang/vRain/blob/main/sponsor_new.png)  
-如果您覺得本項目對您的工作或生活有些微幫助，請給予必要的支持，我也有動力繼續完善更新，謝謝！   
+如果您覺得本項目對您的工作或生活有些微幫助，請給予必要支持，謝謝！   
 
 ### 訂購作者自製高質量古籍數字復刻全書，微信聯繫方式見上
 
